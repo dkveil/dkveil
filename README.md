@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on a bartending client website based on GatsbyJS.<br>👯 I’m looking to collaborate with people who are interested in portfolio or blog websites. Apart from freelance, I am looking for a permanent job as a Front-End developer or Junior Fullstack Developer.<br>🌱 Currently, In my spare time, I'm learning NextJS and the foundations of ExpressJS.<br>💬 Ask me about cooperation on this e-mail: damiankadziela4@gmail.com
 
-test
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-kądziela-a85778237/) 
 
